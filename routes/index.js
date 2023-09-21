@@ -7,4 +7,4 @@ router.use((req, res) => {
     return res.send('Page not found');
 });
 
-module.exports = router
+module.exports = router;
